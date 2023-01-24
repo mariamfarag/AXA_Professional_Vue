@@ -1,0 +1,73 @@
+.footer-tag {
+    height: 100%;
+    margin-bottom: 2%;
+    margin-top: 0%;
+    background-color: #000000d1;
+    color: white;
+}
+
+.contactus-img {
+    height: 80%;
+    width: 25%;
+    margin-left: 3%;
+}
+
+.first-row-colum-footer {
+    color: #ddd8d8;
+    font-weight: 300;
+    font-size: large;
+    padding-top: -1%;
+    font-family: inherit;
+}
+
+.second-row-first-col-footer {
+    margin-bottom: -18px !important;
+    
+    font-weight: 300;
+    font-size: x-large;
+    color: #d3d3d3f0;
+}
+
+.hr-style {
+    margin-top: 5%;
+    margin-left: -3%;
+    width: 60%;
+}
+
+.login-footer {
+    color: white !important;
+    font-weight: 600;
+}
+
+.fontonly-color-footer {
+    color: #ffffff8a;
+}
+
+.textarea-styling {
+    background-color: white;
+    height: 77%;
+    width: 56%;
+}
+
+.textaresa-btn {
+    color: white !important;
+    background-color: #5F8EA7 !important;
+    float: right;
+    margin-right: 43%;
+    border-radius: 9px;
+}
+
+.last-btn-footer {
+    color: white !important;
+    background-color: #5F8EA7 !important;
+    float: right;
+}
+
+.last-p-footer {
+    font-weight: 200;
+    font-size: large;
+    color: #f1ecec;
+}
+.input-background-color-footer{
+    background-color: white ;
+}
